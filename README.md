@@ -52,5 +52,3 @@ Explore the interactive dashboard here:
 Kateryna Yelmanova  
 Aspiring Data Analyst  
 Open to full-time, part-time, and freelance opportunities
-
-Test update
